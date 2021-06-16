@@ -4,8 +4,7 @@ import java.awt.*;
 public class gameScreen extends JFrame {
 
     public gameScreen(String title) throws HeadlessException {
-
-
+        
     }
 
     public static void main(String[] args){
