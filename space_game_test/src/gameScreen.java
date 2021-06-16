@@ -13,7 +13,7 @@ public class gameScreen extends JFrame {
 
         screen.setResizable(false);
         screen.setFocusable(false);
-        screen.setSize(800,600);
+        screen.setSize(800, 600);
 
         screen.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
